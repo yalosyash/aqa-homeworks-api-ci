@@ -1,3 +1,7 @@
+
+
+# Статус сборки проекта на AppVeyor [![Build status](https://ci.appveyor.com/api/projects/status/npvji0x8r5nc3xck?svg=true)](https://ci.appveyor.com/project/yalosyash/aqa-homeworks-api-ci)
+
 # Домашнее задание к занятию «1.2. Тестирование API, CI»
 
 В качестве результата пришлите ссылку на ваш GitHub-проект в личном кабинете студента на
