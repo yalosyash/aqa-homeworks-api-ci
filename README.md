@@ -1,6 +1,6 @@
-
-
-# Статус сборки проекта на AppVeyor [![Build status](https://ci.appveyor.com/api/projects/status/npvji0x8r5nc3xck?svg=true)](https://ci.appveyor.com/project/yalosyash/aqa-homeworks-api-ci)
+# Статус сборки проекта
+### GitHub [![Java CI with Gradle](https://github.com/yalosyash/aqa-homeworks-api-ci/actions/workflows/gradle.yml/badge.svg)](https://github.com/yalosyash/aqa-homeworks-api-ci/actions/workflows/gradle.yml)
+### AppVeyor [![Build status](https://ci.appveyor.com/api/projects/status/npvji0x8r5nc3xck?svg=true)](https://ci.appveyor.com/project/yalosyash/aqa-homeworks-api-ci)
 
 # Домашнее задание к занятию «1.2. Тестирование API, CI»
 
